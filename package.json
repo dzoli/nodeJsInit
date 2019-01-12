@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "RESTful todoListApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "novica",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongose": "0.0.2-security"
+  }
+}
